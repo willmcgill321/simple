@@ -5,5 +5,3 @@ This is the second line!
 This is the third.
 
 And a final fourth line. This is it.
-
-Right now I'm in the middle of working on this file.
